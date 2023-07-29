@@ -2,7 +2,7 @@
 
  <div align="center">
   <a href="https://github.com/IVERTON-EMIQUISON">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=DaltonFCampos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&title_color=cec7b6&text_color=94a1ab&icon_color=66606e"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=IVERTON-EMIQUISON&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&title_color=cec7b6&text_color=94a1ab&icon_color=66606e"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IVERTON-EMIQUISON&layout=compact&langs_count=7&theme=onedark&title_color=cec7b6&text_color=94a1ab&icon_color=66606e"/>
 </div> 
 
